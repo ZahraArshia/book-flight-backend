@@ -9,6 +9,10 @@ node_modules/
 # Ignore bundler config.
 /.bundle
 
+# Ignore VSCode folders
+.vscode
+.history
+
 # Ignore all logfiles and tempfiles.
 /log/*
 /tmp/*
